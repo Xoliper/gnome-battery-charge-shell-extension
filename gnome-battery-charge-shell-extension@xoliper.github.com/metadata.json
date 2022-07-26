@@ -1,0 +1,8 @@
+{
+  "name": "Gnome Battery Charge Threshold Switch",
+  "description": "Adds switch for toggling gnome-battery-charge-threshold gsetting. Works with gnome-battery-charge-manager application.",
+  "uuid": "gnome-battery-charge-shell-extension@xoliper.github.com",
+  "shell-version": [
+    "42.3"
+  ]
+}
