@@ -18,6 +18,7 @@ This version of extension was tested on GNOME 42.3 but there is high probability
 
 Just copy extension folder & activate extension.
 ```
-cp -r gnome-battery-charge-shell-extension@xoliper.github.com ~.local/share/gnome-shell/extensions/
+git clone https://github.com/Xoliper/gnome-battery-charge-shell-extension.git
+cp -r gnome-battery-charge-shell-extension/gnome-battery-charge-shell-extension@xoliper.github.com ~/.local/share/gnome-shell/extensions/
 ... relog ...
 gnome-extensions enable gnome-battery-charge-shell-extension@xoliper.github.com 
